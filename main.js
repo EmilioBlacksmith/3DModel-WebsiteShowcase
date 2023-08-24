@@ -65,7 +65,7 @@ function animate() {
     controls.update();
     renderer.render(scene, camera);
     dogObject.rotation.y += 0.01;
-    dogObject.rotation.x += 0.02;
+    //dogObject.rotation.x += 0.02;
 }
 
 animate();

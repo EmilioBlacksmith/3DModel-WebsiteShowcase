@@ -5,7 +5,8 @@ Testing new tools to add 3D to websites with Three.js 😂
 
 (Web games coming soon)
 
-![preview 3D](https://github.com/EmilioBlacksmith/3DModel-WebsiteShowcase/assets/71019624/93dda8f9-7059-4c41-82b5-fee602f05440)
+![preview_3D](https://github.com/EmilioBlacksmith/3DModel-WebsiteShowcase/assets/71019624/cb0ef643-3ac8-41a9-aa85-dca4e7712f2c)
+
 
 ## Tools Used.
 <p>
